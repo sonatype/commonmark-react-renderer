@@ -1,13 +1,20 @@
-# commonmark-react-renderer
+# Fork
 
-[![npm version](http://img.shields.io/npm/v/commonmark-react-renderer.svg?style=flat-square)](http://browsenpm.org/package/commonmark-react-renderer)[![Build Status](http://img.shields.io/travis/rexxars/commonmark-react-renderer/master.svg?style=flat-square)](https://travis-ci.org/rexxars/commonmark-react-renderer)[![Coverage Status](http://img.shields.io/codeclimate/coverage/github/rexxars/commonmark-react-renderer.svg?style=flat-square)](https://codeclimate.com/github/rexxars/commonmark-react-renderer)[![Code Climate](http://img.shields.io/codeclimate/github/rexxars/commonmark-react-renderer.svg?style=flat-square)](https://codeclimate.com/github/rexxars/commonmark-react-renderer/)
+This repository is a fork of https://github.com/rexxars/commonmark-react-renderer created in order to upgrade the
+commonmark dependency. This fork is to be published under the package name `@sonatype/commonmark-react-renderer`,
+whereas the original is simply `commonmark-react-renderer`.
+
+The rest of this README from here down is copied from the original repository, with references to the component name
+updated.
+
+# commonmark-react-renderer
 
 Renderer for CommonMark which returns an array of React elements, ready to be used in a React component. See [react-markdown](https://github.com/rexxars/react-markdown/) for such a component.
 
 ## Installing
 
 ```
-npm install --save commonmark-react-renderer
+npm install --save @sonatype/commonmark-react-renderer
 ```
 
 ## Basic usage
