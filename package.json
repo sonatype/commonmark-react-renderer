@@ -1,5 +1,5 @@
 {
-  "name": "commonmark-react-renderer",
+  "name": "@sonatype/commonmark-react-renderer",
   "description": "React renderer for CommonMark (rationalized Markdown)",
   "version": "4.3.5",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rexxars/commonmark-react-renderer.git"
+    "url": "git@github.com:sonatype/commonmark-react-renderer.git"
   },
   "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
   "license": "MIT",
